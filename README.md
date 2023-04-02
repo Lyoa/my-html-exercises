@@ -1,3 +1,9 @@
-# HTML + CSS
+<h1 align="center">Deep Learning HTML 🌱</h1>
 
-This file is a compilation of my html and css exercises
+### A compilation of my practices for HTML 📖
+
+- Styling using css
+- HTML tags and exploring inline, internal and external css
+- Studying HTML elements, tags and linking css file
+
+Authored by: Shaira de Leon
